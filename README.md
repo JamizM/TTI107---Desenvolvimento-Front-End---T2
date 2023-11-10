@@ -32,17 +32,43 @@ Quando você digita o nome de uma cidade, a API busca a playlist mais tocada no 
 <h3>Para acessar o <b>WeatherApp</b>, siga estas etapas:<h3><br>
 
 
-## 🤝 Colaborador
+## 🤝 Colaboradores
 
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img align="center" src="https://avatars.githubusercontent.com/u/78627928?v=4" width="100px;" alt="era uma foto daora"/><br>
+        <img src="https://avatars.githubusercontent.com/u/78627928?v=4" width="100px;" alt="era uma foto daora"/><br>
         <sub>
           <p><b><i>Alessandro Lima:</i></b> <a href="https://github.com/alexZ7000"><i>alexZ7000</i></a>🏆</p>
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/124106382?v=4" width="100px;" alt="era uma foto daora"/><br>
+        <sub>
+          <p><b><i>Flavio Carvalho:</i></b> <a href="https://github.com/Flavsc"><i>Flavsc</i></a>🏆</p>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/133376282?v=4" width="100px;" alt="era uma foto daora"/><br>
+        <sub>
+          <p><b><i>João Martinez:</i></b> <a href="https://github.com/JamizM"><i>JamizM</i></a>🏆</p>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/126502239?v=4" width="100px;" alt="era uma foto daora"/><br>
+        <sub>
+          <p><b><i>Matheus Chinen:</i></b> <a href="https://github.com/Matz34231"><i>Matz34231</i></a>🏆</p>
+        </sub>
+      </a>
+    </td>
+  </tr>
 </table>
