@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./styles.css"> <!--link serve para pegar a referência de outro arquivo-->
+    <title>Learning</title>
+</head>
+<body onload="waitDomLoad()">
+    <section class="container">
+        <video class="video" autoplay muted loop>
+            <source id="video-source" src="./videos/video1.mp4" type="video/mp4">
+        </video>
+        <div class="caixa">
+            <div class="procura">
+                <button onclick="botaoDeBusca()">
+                    <img src="./images/lupa.png" alt="icone-lupa"> <!--ele cria um botão com um ícone de imagem-->
+                </button>
+                <label for="input-busca"></label><input id="input-busca" placeholder="Coloque o nome da cidade" type="text"> <!--igual o Entry() do tkinter-->
+            </div>
+            <div class="envelope">
+                <div class="conteudo-clima">
+                    <img  class="icone-tempo" src="./images/01d.png" alt="icone-tempo">
+                    <h2 class="nome-cidade">---</h2>
+                    <h3 class="temperatura">---</h3>
+                    <div class="conteudo-variacoes">
+                        <p class="maxTemperatura">---</p>
+                        <p class="minTemperatura">---</p>
+                    </div>
+                </div>
+                <div class="conteudo-musica">
+                    <img class="icone-musica" src="./images/Musica.png" alt="musica-icon">
+                    <h2>Playlist</h2>
+                    <ul class="playlist-caixa">
+                        <li>
+                            <img src="./images/spotify.png" alt="spotify-icon">
+                            <p>---</p>
+                        </li>
+                        <li>
+                            <img src="./images/spotify.png" alt="spotify-icon">
+                            <p>---</p>
+                        </li>
+                        <li>
+                            <img src="./images/spotify.png" alt="spotify-icon">
+                            <p>---</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="./scripts.js"></script>
+</body>
+</html>
