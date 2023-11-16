@@ -15,7 +15,7 @@ const waitDomLoad = () => {
     document.addEventListener("DOMContentLoaded", () => {/*Arrow function, pesquisar sobre isso*/
         fecharInput()
     })
-};
+}
 
 function botaoDeBusca(){
     const inputValue = input.value;
