@@ -1,4 +1,5 @@
-<h1>WeatherApp ☀️</h1>
+<h1>TTI107 Desenvolvimento Front-End T2
+ ☀️</h1>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/alexZ7000/WeatherApp?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/alexZ7000/WeatherApp?style=for-the-badge)
