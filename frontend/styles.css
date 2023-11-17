@@ -104,74 +104,6 @@ body, html{
     z-index: -1;
 }
 
-.conteudo-musica{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    position: relative;
-    padding: 2rem;
-    width: 350px;
-    height: 100%;
-    max-height: 550px;
-}
-
-.icone-musica{
-    width: 8.5rem;
-    height: 8.5rem;
-    margin-bottom: 1.25rem;
-    margin-top: 2rem;
-}
-
-.conteudo-musica h2{
-    font-size: 3.375rem;
-    font-weight: 400;
-    margin-bottom: 2rem;
-    text-transform: uppercase;
-}
-
-.playlist-caixa{
-    width: 100%;
-    list-style: none;
-}
-
-.playlist-caixa li{
-    display: flex;
-    align-items: center;
-    margin-bottom: 1rem;
-    padding: 0 0.75rem;
-}
-
-.playlist-caixa li img{
-    width: 40px;
-    height: 40px;
-    margin-right: 0.75rem;
-}
-
-.playlist-caixa li p{
-    width: 210px;
-    font-size: 2rem;
-    text-align: left;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-.conteudo-musica::after{ /*pseudoelemento, elemento que não existe, e você define propriedades para ele, pode ser um after ou before*/
-    content: "";
-    position: absolute; /*toda vez que usamos um position absolute ele vai ter uma referencia, a referencia dele é sempre em relação ao elemento que tem position relative,
-    ou seja, o pai dele vai ser o elemento com position relative, ao não definir nenhum relative, ele vai entender que o pai dele é a página
-    Nesse caso ele vai buscar a referencia na classe conteudo clima, pegar o pai dele (position relative) e assim definir sua posição usando absolute, top e left*/
-    top: 8rem;
-    left: 0;
-    width: 350px;
-    height: 406px;
-    border-radius: 50px;
-    background: linear-gradient(180deg, rgba(194, 188, 194, 0) 0%, rgba(194, 188, 194, 0.8));
-    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.25);
-    filter: blur(4.5px);
-    z-index: -1;
-}
-
 .caixa{
     display: flex;
     align-items: center;
@@ -191,6 +123,7 @@ body, html{
 
 .procura button{
     margin: 0 .5rem 0;
+    cursor: pointer;
     padding: 0;
     width: 40px;
     height: 40px;
