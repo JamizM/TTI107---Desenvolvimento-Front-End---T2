@@ -6,15 +6,32 @@
 <img src="https://github.com/alexZ7000/WeatherApp/assets/78627928/2256edf7-a3f7-4970-8553-4820f63cd6a8" alt="WeatherApp">
 <br>
 
+
 > <b>WeatherApp</b> é um site que vai mostrar a temperatura de cidades/paises<br>
 >  
 <br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <h1>Usando WeatherApp🤳🏼</h1>
 
 ![image](https://github.com/alexZ7000/WeatherApp/assets/78627928/c357880b-cd6c-49a6-affa-410932ea354b)
+
 O aplicativo trabalha com a API do openweather e com servidor nodejs
+
+
+
 
 ![image](https://github.com/alexZ7000/WeatherApp/assets/78627928/8de29806-86ad-4b06-aa90-1cce484d0bce)
 Quando você digita o nome de uma cidade, a API busca a playlist mais tocada no país da respectiva cidade
