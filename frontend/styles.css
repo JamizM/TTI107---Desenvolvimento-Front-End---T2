@@ -33,7 +33,7 @@ body, html{
 
 .envelope{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     width: 100%;
     flex-wrap: wrap;
 }
@@ -50,7 +50,7 @@ body, html{
 }
 
 .conteudo-clima img{
-    height: 11.5rem; /*para diminuir o tamanho da imagem*/
+    height: 9.5rem; /*para diminuir o tamanho da imagem*/
     margin-bottom: 0.25rem;
 }
 
