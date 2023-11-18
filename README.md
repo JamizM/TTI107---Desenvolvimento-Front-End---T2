@@ -55,19 +55,23 @@ npm start
 
 > Com o servidor nodejs iniciado você será capaz de realizar pesquisas 🤏🏼😎
 >
+<br>
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/8933293a-84bd-476d-8e5a-a9228d827607)
 
 > Quando você digita o nome de uma cidade e aperta a tecla enter ⌨️, a API do openweather busca a temperatura 🌡️ atual da cidade e mostra na tela
 >  
+<br>
 
-![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/f78ebc21-77ec-414a-90fd-d2a0d94f2157)
-> Ao clicar na lupa voc~e conseguirá abrir e fechar a caixinha de pesquisa 🔍
+![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/d230aeb1-32ee-40d0-85dc-32cc19796a22)
+> Ao clicar na lupa você conseguirá abrir e fechar a caixinha de pesquisa 🔍
 >
+<br>
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/3ec0c33e-2635-4329-be62-e00a085158ae)
 > O Site T2 utiliza 12 backgrounds🏞️ diferentes, trazendo dinamismo♾️, paz☮️ e tranquilidade🧘🏼
 >
+<br>
 
 ## 🤝 Colaboradores
 
