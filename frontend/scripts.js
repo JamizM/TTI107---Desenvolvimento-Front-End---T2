@@ -29,6 +29,7 @@ const showWeatherOnScreen = (response) => {
     document.querySelector('.minTemperatura').innerHTML = `Min: ${response["min"].toFixed(0)}°C`;
     document.querySelector('.latTemperatura').innerHTML = `Lat: ${response["lat"].toFixed(0)}°`;
     document.querySelector('.lonTemperatura').innerHTML = `Lon: ${response["lon"].toFixed(0)}°`;
+    document.querySelector('.descricao-cidade').innerHTML = response["description"];
     document.querySelector('.icone-tempo').src = `../assets/images/${response["weather_image"]}.png`
 };
 
