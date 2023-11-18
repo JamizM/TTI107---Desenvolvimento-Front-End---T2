@@ -2,7 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/JamizM/TTI107---Desenvolvimento-Front-End---T2?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/JamizM/TTI107---Desenvolvimento-Front-End---T2?style=for-the-badge)
-![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/2231568f-e161-4a51-bb0b-0887a9d13f64)
+![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/61a3f791-b51c-4c37-99aa-72b60d4621fb)
+
 <br>
 
 > Este é um site que vai mostrar a temperatura🌡️ de cidades/paises🌍 usando a API do <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="OpenWeatherMap" width="85"/><br>
@@ -51,24 +52,22 @@ npm start
 
 <h1>Usando o Site T2🤳🏼</h1>
 
-![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/8a2dd3e7-fcb8-4dcb-85f6-480c39e06a03)
-
+![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/d957eee2-81f1-4b4c-8bce-4f79c3d6af9e)
 > Com o servidor nodejs iniciado você será capaz de realizar pesquisas 🤏🏼😎
 >
 <br>
 
-![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/8933293a-84bd-476d-8e5a-a9228d827607)
-
+![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/698f5e5c-98a2-4adc-99cb-2cf11785ac40)
 > Quando você digita o nome de uma cidade e aperta a tecla enter ⌨️, a API do openweather busca a temperatura 🌡️ atual da cidade e mostra na tela
 >  
 <br>
 
-![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/d230aeb1-32ee-40d0-85dc-32cc19796a22)
+![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/37b3652f-a728-4adf-9e28-66bfa8cb9776)
 > Ao clicar na lupa você conseguirá abrir e fechar a caixinha de pesquisa 🔍
 >
 <br>
 
-![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/3ec0c33e-2635-4329-be62-e00a085158ae)
+![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/729fb91c-0c8b-4a3d-8623-163726332fe2)
 > O Site T2 utiliza 12 backgrounds🏞️ diferentes, trazendo dinamismo♾️, paz☮️ e tranquilidade🧘🏼
 >
 <br>
