@@ -1,30 +1,73 @@
-<h1>TTI107 Desenvolvimento Front-End T2
- ☀️</h1>
+<h1>TTI107 Desenvolvimento Front-End T2 🌤️</h1>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/JamizM/TTI107---Desenvolvimento-Front-End---T2?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/JamizM/TTI107---Desenvolvimento-Front-End---T2?style=for-the-badge)
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/2231568f-e161-4a51-bb0b-0887a9d13f64)
 <br>
 
-> Este é um site que vai mostrar a temperatura de cidades/paises<br>
+> Este é um site que vai mostrar a temperatura🌡️ de cidades/paises🌍 usando a API do <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="OpenWeatherMap" width="85"/><br>
 >  
 <br>
+
+<h1>Requisição do projeto ⚠️</h1>
+
+![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/78822bd6-3eba-4180-b46d-c4144134ef4e)
+
+<h1>Como Usar o Site T2? 🤔</h1>
+<h3>Primeiramente instale todas as dependencias do projeto dentro da pasta raiz</h3>
+CMD: 
+
+```
+cd .\TTI107---Desenvolvimento-Front-End---T2\
+npm i
+```
+<h3>Crie um arquivo .env seguindo os exemplos do .env.examples</h3>
+CMD: 
+
+```
+type nul > .env
+```
+
+<h3>Dentro deste arquivo .env coloque sua chave API do openweather</h3>
+
+![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/81f6b49d-eaba-4665-b64c-fc9979eef6d3)
+<p>A chave acima é só um exemplo, ela não funciona de verdade</p>
+
+<h3>Inicialize o servidor nodejs 
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img align="middle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
+ </a>
+</h3>
+
+```
+npm start
+```
+<p>Você deverá ver a seguinte mensagem caso o servidor tenha inicializado com sucesso:</p>
+
+![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/0024f3e6-4e7e-43b7-9ca4-309bb4d0c38e)
+
+<h3>Por último você deve inicializar o arquivo index.html em seu navegador</h3>
+<p>Agora é se divertir usando o Site T2 🤓</p>
 
 <h1>Usando o Site T2🤳🏼</h1>
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/8a2dd3e7-fcb8-4dcb-85f6-480c39e06a03)
 
-> O site trabalha com a API do openweather
+> Com o servidor nodejs iniciado você será capaz de realizar pesquisas 🤏🏼😎
 >
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/8933293a-84bd-476d-8e5a-a9228d827607)
 
-> Quando você digita o nome de uma cidade e aperta a tecla enter, a API do openweather busca a temperatura atual da cidade e mostra na tela
+> Quando você digita o nome de uma cidade e aperta a tecla enter ⌨️, a API do openweather busca a temperatura 🌡️ atual da cidade e mostra na tela
 >  
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/f78ebc21-77ec-414a-90fd-d2a0d94f2157)
+> Ao clicar na lupa voc~e conseguirá abrir e fechar a caixinha de pesquisa 🔍
+>
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/3ec0c33e-2635-4329-be62-e00a085158ae)
+> O Site T2 utiliza 12 backgrounds🏞️ diferentes, trazendo dinamismo♾️, paz☮️ e tranquilidade🧘🏼
+>
 
 ## 🤝 Colaboradores
 
