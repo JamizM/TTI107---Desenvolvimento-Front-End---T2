@@ -5,6 +5,7 @@
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/2231568f-e161-4a51-bb0b-0887a9d13f64)
 <br>
 
+
 > Este é um site que vai mostrar a temperatura🌡️ de cidades/paises🌍 usando a API do <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="OpenWeatherMap" width="85"/><br>
 >  
 <br>
@@ -54,12 +55,10 @@ npm start
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/8a2dd3e7-fcb8-4dcb-85f6-480c39e06a03)
 
 > Com o servidor nodejs iniciado você será capaz de realizar pesquisas 🤏🏼😎
->
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/8933293a-84bd-476d-8e5a-a9228d827607)
 
 > Quando você digita o nome de uma cidade e aperta a tecla enter ⌨️, a API do openweather busca a temperatura 🌡️ atual da cidade e mostra na tela
->  
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/f78ebc21-77ec-414a-90fd-d2a0d94f2157)
 > Ao clicar na lupa voc~e conseguirá abrir e fechar a caixinha de pesquisa 🔍
