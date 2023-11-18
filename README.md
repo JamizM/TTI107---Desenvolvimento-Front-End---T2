@@ -1,25 +1,25 @@
 <h1>TTI107 Desenvolvimento Front-End T2
  ☀️</h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/alexZ7000/WeatherApp?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/alexZ7000/WeatherApp?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/JamizM/TTI107---Desenvolvimento-Front-End---T2?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/JamizM/TTI107---Desenvolvimento-Front-End---T2?style=for-the-badge)
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/2231568f-e161-4a51-bb0b-0887a9d13f64)
 <br>
 
-> <b>WeatherApp</b> é um site que vai mostrar a temperatura de cidades/paises<br>
+> Este é um site que vai mostrar a temperatura de cidades/paises<br>
 >  
 <br>
 
-<h1>Usando WeatherApp🤳🏼</h1>
+<h1>Usando o Site T2🤳🏼</h1>
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/8a2dd3e7-fcb8-4dcb-85f6-480c39e06a03)
 
-> O aplicativo trabalha com a API do openweather
+> O site trabalha com a API do openweather
 >
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/8933293a-84bd-476d-8e5a-a9228d827607)
 
-> Quando você digita o nome de uma cidade, a API busca a temperatura atual da cidade e mostra na tela
+> Quando você digita o nome de uma cidade e aperta a tecla enter, a API do openweather busca a temperatura atual da cidade e mostra na tela
 >  
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/f78ebc21-77ec-414a-90fd-d2a0d94f2157)
