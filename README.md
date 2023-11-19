@@ -1,20 +1,20 @@
-<h1>TTI107 Desenvolvimento Front-End T2 🌤️</h1>
+<h1>TTI107 Desenvolvimento Front-End T2 <picture align="middle"><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f305/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f305/512.gif" alt="🌅" width="32" height="32"></picture></h1>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/JamizM/TTI107---Desenvolvimento-Front-End---T2?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/JamizM/TTI107---Desenvolvimento-Front-End---T2?style=for-the-badge)
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/61a3f791-b51c-4c37-99aa-72b60d4621fb)
+> Este é um site que vai mostrar a temperatura🌡️ de cidades/paises<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="32" height="32"></picture> usando a API do <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="OpenWeatherMap" width="75"/>
 
-<br>
 
-> Este é um site que vai mostrar a temperatura🌡️ de cidades/paises🌍 usando a API do <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="OpenWeatherMap" width="85"/><br>
->  
-<br>
-
-<h1>Requisição do projeto ⚠️</h1>
+<h1>Requisição do projeto <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2757/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2757/512.gif" alt="❗" width="32" height="32"></picture></h1>
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/78822bd6-3eba-4180-b46d-c4144134ef4e)
 
-<h1>Como Usar o Site T2? 🤔</h1>
+<h1>Como Usar o Site T2? <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" alt="🤔" width="32" height="32">
+</picture></h1>
+
 <h3>Primeiramente instale todas as dependencias do projeto dentro da pasta raiz</h3>
 CMD: 
 
@@ -53,8 +53,8 @@ npm start
 <h1>Usando o Site T2🤳🏼</h1>
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/d957eee2-81f1-4b4c-8bce-4f79c3d6af9e)
-> Com o servidor nodejs iniciado você será capaz de realizar pesquisas 🤏🏼😎
->
+> Com o servidor nodejs iniciado você será capaz de realizar pesquisas <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="18" height="18"></picture>
+
 <br>
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/698f5e5c-98a2-4adc-99cb-2cf11785ac40)
