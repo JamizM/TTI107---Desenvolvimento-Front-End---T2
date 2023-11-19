@@ -14,6 +14,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" alt="🤔" width="32" height="32">
 </picture></h1>
+
 <h3>Primeiramente instale todas as dependencias do projeto dentro da pasta raiz</h3>
 CMD: 
 
@@ -53,6 +54,7 @@ npm start
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/d957eee2-81f1-4b4c-8bce-4f79c3d6af9e)
 > Com o servidor nodejs iniciado você será capaz de realizar pesquisas <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="18" height="18"></picture>
+
 <br>
 
 ![image](https://github.com/JamizM/TTI107---Desenvolvimento-Front-End---T2/assets/78627928/698f5e5c-98a2-4adc-99cb-2cf11785ac40)
