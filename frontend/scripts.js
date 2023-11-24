@@ -14,8 +14,7 @@ const getWeather = async (inputValue) => {
 const input = document.getElementById("input-busca");
 input.addEventListener('keyup', function (event){
     if (event.keyCode === 13) {
-        const inputValue = input.value;
-        isNaN(inputValue) ? getWeather(inputValue) : alert("Insira um valor válido na caixa de pesquisa");
+        isNaN(input.value) && input.value.length >= 1 ? getWeather(input.value) : alert("Insira um valor válido na caixa de pesquisa");
     }
     document.addEventListener("DOMContentLoaded", () => {
         closeInput();
@@ -34,7 +33,7 @@ const showWeatherOnScreen = (response) => {
 };
 
 const searchButton = () => {
-    input.value.length >= 1 ? getWeather(input.value) : null;
+    isNaN(input.value) && input.value.length >= 1 ? getWeather(input.value) : null;
     const visibility = document.getElementById('input-busca').style.visibility;
     visibility === 'hidden' ? openInput() : closeInput();
 };
