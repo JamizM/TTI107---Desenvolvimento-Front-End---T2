@@ -17,7 +17,6 @@ app.post('/', (req, res) => {
     response.on("data", async (data) => {
       try {
         const { city_name, temperature, max_temp, min_temp, lat, lon, feels_like, description, weather_image } = await getWeatherData(data);
-        console.log();
         res.send(
             [
                 {

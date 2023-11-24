@@ -30,10 +30,11 @@ const showWeatherOnScreen = (response) => {
     document.querySelector('.latTemperatura').innerHTML = `Lat: ${response["lat"].toFixed(0)}°`;
     document.querySelector('.lonTemperatura').innerHTML = `Lon: ${response["lon"].toFixed(0)}°`;
     document.querySelector('.descricao-cidade').innerHTML = response["description"];
-    document.querySelector('.icone-tempo').src = `../assets/images/${response["weather_image"]}.png`
+    document.querySelector('.icone-tempo').src = `../assets/images/${response["weather_image"]}.png`;
 };
 
 const searchButton = () => {
+    input.value.length >= 1 ? getWeather(input.value) : null;
     const visibility = document.getElementById('input-busca').style.visibility;
     visibility === 'hidden' ? openInput() : closeInput();
 };
